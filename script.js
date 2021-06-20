@@ -10,74 +10,74 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "Bapu-zimidar",
+          artist: "Jassi gill",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/1.jpg",
+          source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/1.mp3",
+          url: "",
+          favorited: false
+        },
+        {
+          name: "Gora-rang",
+          artist: "Khasa aala cahar",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/2.jpg",
+          source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/2.mp3",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Chhan-chhan",
+          artist: "renuka panvar",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/3.jpg",
+          source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/3.mp3",
+          url: "",
+          favorited: false
+        },
+        {
+          name: "Jai veru",
+          artist: "Khasa aala cahar",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/4.jpg",
+          source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/4.mp3",
+          url: "",
+          favorited: false
+        },
+        {
+          name: "Z-black",
+          artist: "Md-kd",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/5.jpg",
+          source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/5.mp3",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Yar-beli",
+          artist: "Guri",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/6.jpg",
+          source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/6.mp3",
+          url: "",
+          favorited: false
+        },
+        {
           name: "Haryanvi songs",
           artist: "Aman raj gill",
-          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/1.jpg",
-          source: "",
-          url: "",
-          favorited: false
-        },
-        {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/7.jpg",
+          source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/7.mp3",
           url: "",
           favorited: true
         },
         {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
+          name: "top class desi",
+          artist: "desi-crew",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/8.jpg",
+          source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/8.mp3",
           url: "",
           favorited: false
         },
         {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
-          url: "",
-          favorited: false
-        },
-        {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
-          url: "",
-          favorited: true
-        },
-        {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
-          url: "",
-          favorited: false
-        },
-        {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
-          url: "",
-          favorited: true
-        },
-        {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
-          url: "",
-          favorited: false
-        },
-        {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
+          name: "Desi-desi na bolya kar",
+          artist: "desi-crew",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/9.jpg",
+          source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/9.mp3",
           url: "",
           favorited: false
         }
