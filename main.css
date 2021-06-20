@@ -276,12 +276,12 @@ body {
 .album-info {
   color: #71829e;
   flex: 1;
-  padding-right: 45px;
+  padding-right: 60px;
   user-select: none;
 }
 @media screen and (max-width: 576px), (max-height: 500px) {
   .album-info {
-    padding-right: 20px;
+    padding-right: 30px;
   }
 }
 .album-info__name {
