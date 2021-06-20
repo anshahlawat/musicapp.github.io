@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Bapu-zimidar",
           artist: "Jassi gill",
-          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/1.jpg",
+          cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/21.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/1.mp3",
           url: "https://youtu.be/jOYR3k1VhUQ",
           favorited: false
