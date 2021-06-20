@@ -14,7 +14,7 @@ new Vue({
           artist: "Jassi gill",
           cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/1.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/1.mp3",
-          url: "",
+          url: "https://youtu.be/jOYR3k1VhUQ",
           favorited: false
         },
         {
@@ -22,7 +22,7 @@ new Vue({
           artist: "Khasa aala cahar",
           cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/2.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/2.mp3",
-          url: "",
+          url: "https://youtu.be/KhlAHNQLLQ8",
           favorited: true
         },
         {
@@ -30,7 +30,7 @@ new Vue({
           artist: "renuka panvar",
           cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/3.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/3.mp3",
-          url: "",
+          url: "https://youtu.be/mUnrxQejYZY",
           favorited: false
         },
         {
@@ -38,7 +38,7 @@ new Vue({
           artist: "Khasa aala cahar",
           cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/4.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/4.mp3",
-          url: "",
+          url: "https://youtu.be/5rC5_PAqCgs",
           favorited: false
         },
         {
@@ -46,7 +46,7 @@ new Vue({
           artist: "Md-kd",
           cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/5.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/5.mp3",
-          url: "",
+          url: "https://youtu.be/iCOKIJE4pTs",
           favorited: true
         },
         {
@@ -54,7 +54,7 @@ new Vue({
           artist: "Guri",
           cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/6.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/6.mp3",
-          url: "",
+          url: "https://youtu.be/5RZws-BEl4s",
           favorited: false
         },
         {
@@ -62,7 +62,7 @@ new Vue({
           artist: "Aman raj gill",
           cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/7.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/7.mp3",
-          url: "",
+          url: "https://youtu.be/iR9lHwUfDdY",
           favorited: true
         },
         {
@@ -70,7 +70,7 @@ new Vue({
           artist: "desi-crew",
           cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/8.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/8.mp3",
-          url: "",
+          url: "https://youtu.be/p9rZtWyL2iU",
           favorited: false
         },
         {
@@ -78,7 +78,7 @@ new Vue({
           artist: "desi-crew",
           cover: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/9.jpg",
           source: "https://raw.githubusercontent.com/anshahlawat/musicapp.github.io/main/9.mp3",
-          url: "",
+          url: "https://youtu.be/P7Q4SmMi1Eg",
           favorited: false
         }
       ],
